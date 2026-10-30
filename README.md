@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:d3d3ff&height=120&section=header&text=Sushila%20Shrestha&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Engineer%20%C2%B7%20Machine%20Learning&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:d3d3ff&height=120&section=header&text=Sushila%20Shrestha&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Engineer%&descAlignY=65&descSize=15&animation=fadeIn" width="100%"/>
 
 <table>
 <tr>
@@ -25,8 +25,7 @@
 ---
 
 ### whoami
-
-I'm **Sushila Shrestha**, a Computer Engineer and frontend engineer from Nepal 🇳🇵. I love building clean, accessible interfaces and the little details that make them feel right, with a soft spot for **machine learning & AI** on the side. *Chaos makes the muse* ✨
+I'm **Sushila Shrestha**, a Computer Engineering graduate from Nepal 🇳🇵, currently working as a frontend engineer. I love building clean, accessible interfaces and sweating the little details that make them feel just right. *Chaos makes the muse* ✨
 
 <div align="center">
 
